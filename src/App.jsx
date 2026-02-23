@@ -12,9 +12,6 @@ function App() {
     <>
 
     <AuthContainer/>
-    <Dashboard/>
-    <SignIn/>
-    <SignUp/>
     </>
   )
 }
