@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react-swc'
 // https://vite.dev/config/
 export default defineConfig({
   
-      base: '/week5-labexp-SignIn-SignuUp/',
+      base: '/week5/',
       plugins: [react()],
   
   })
